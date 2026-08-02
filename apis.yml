@@ -1,9 +1,27 @@
 aid: zyg
 name: Zyg
-description: 'Zyg is a company surfaced as a portfolio company of accel, bessemer-venture-partners, lightspeed-venture-partners
-  and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: >-
+  ZyG is an agentic operating system for eCommerce scale that helps product
+  inventors and direct-to-consumer (DTC) brands validate, scale, and finance
+  their growth. Instead of stitching together fragmented tools and agencies, ZyG
+  offers a unified, AI-agent-powered platform that turns great products into
+  successful brands. The company pairs a data-driven ZyG Score with a
+  pay-as-you-grow consumption model and cohort-based financing, positioning
+  itself as a risk-reduction partner across the brand-building journey. ZyG is
+  backed by Accel, Bessemer Venture Partners, and Lightspeed Venture Partners.
 url: https://raw.githubusercontent.com/api-evangelist/zyg/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/tTYu5pN28Z3K7wyCn1gXq01IzZg.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -14,10 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Ai
+- eCommerce
+- DTC
+- AI Agents
+- Brand Growth
+- Financing
+- Operating System
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -27,3 +51,14 @@ maintainers:
 common:
 - type: Website
   url: https://www.zyg.com/
+- type: Blog
+  url: https://www.zyg.com/blog
+- type: TermsOfService
+  url: https://www.zyg.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.zyg.com/privacy-policy
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
