@@ -1,0 +1,29 @@
+# Front Door AI Index — zyg — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: zyg
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.zyg.com
+  final_host: www.zyg.com
+  ownership: own
+  owner: zyg
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 16
+  host_score: 16
+  density: 19.23
+  words: 832
+  tiers:
+    agentic: 12
+    core: 4
+    model: 0
+  ambiguous: 8
+  top_terms:
+    agentic: 8
+    AI agent: 4
+    AI: 4
+    agent: 4
+    predictive: 4
