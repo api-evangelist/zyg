@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/zyg/integrations
+- https://n8n.io/integrations/zyg/
+- https://composio.dev/toolkits/zyg
+- https://monid.ai/tools/zyg
+checked:
+- https://composio.dev/toolkits/zyg
+- https://monid.ai/tools/zyg
+- https://n8n.io/integrations/zyg/
+- https://zapier.com/apps/zyg/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
